@@ -4,6 +4,12 @@
 
 ![test](../../../res/img/test.jpg)
 
+<div align = center>
+<i>Image source: http://simply-the-test.blogspot.com</i>
+</div>
+
+<br />
+
 ### 我们讨厌测试
 
 1. 单元测试是什么
