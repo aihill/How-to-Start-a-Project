@@ -2,6 +2,6 @@
 
 **勇踏前人未至之境。**
 
-*To boldly go where no man/one has gone before.*
+*To boldly go where no man has gone before.*
 
 ![perface](../../../res/img/perface.jpg)
