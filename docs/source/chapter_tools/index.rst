@@ -8,8 +8,9 @@
 .. toctree::
    :maxdepth: 2
 
-   git
+
    editor
+   git
    test
    ci
    quality
