@@ -25,9 +25,9 @@ Git 等版本控制工具的诞生，让版本管理变得简单和易用。
 作为Git官方推荐书籍，*Pro Git* 值得Git初学者和爱好者认真阅读一遍。
 接下来请移步：[https://bingohuang.gitbooks.io/progit2/content/](https://bingohuang.gitbooks.io/progit2/content/)
 
-入门 (30min)： [第二章](https://bingohuang.gitbooks.io/progit2/content/02-git-basics/1-git-basics.html)，[第三章](https://bingohuang.gitbooks.io/progit2/content/03-git-branching/1-git-branching.html)
+入门： [第二章](https://bingohuang.gitbooks.io/progit2/content/02-git-basics/1-git-basics.html)，[第三章](https://bingohuang.gitbooks.io/progit2/content/03-git-branching/1-git-branching.html)
 
-高级话题 (1h 30min)： [第四章](https://bingohuang.gitbooks.io/progit2/content/04-git-server/1-git-server.html)至[第八章](https://bingohuang.gitbooks.io/progit2/content/08-customizing-git/1-customizing-git.html)，
+高级话题 ： [第四章](https://bingohuang.gitbooks.io/progit2/content/04-git-server/1-git-server.html)至[第八章](https://bingohuang.gitbooks.io/progit2/content/08-customizing-git/1-customizing-git.html)，
 
 ### Github 漫步指南
 

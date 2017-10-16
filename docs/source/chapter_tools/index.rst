@@ -10,6 +10,7 @@
 
    git
    editor
+   test
    ci
    quality
    docs
