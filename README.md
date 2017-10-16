@@ -1,4 +1,4 @@
-# How-to-Start-a-Project
+# How to Start a Project
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
@@ -6,22 +6,22 @@
 
 内容主要包括：
 
-* 工具篇
-    * 版本控制 [TODO]
-    * 编辑器 [TODO]
-    * 测试 [TODO]
-    * 持续集成 [TODO]
-    * 代码质量 [TODO]
-    * 文档管理 [TODO]
-    * 发布 [TODO]
-* python篇
-    * 工作流 [TODO]
-    * 代码风格 [TODO]
-    * 最佳实践指南 [TODO]
-    * 推荐阅读 [TODO]
-* C++篇
-    * 工作流 [TODO]
-    * 代码风格 [TODO]
-    * 最佳实践指导 [TODO]
-    * 推荐阅读 [TODO]
-* 鸣谢 [TODO]
+- [ ] *工具篇*
+    - [x] 版本控制
+    - [ ] 编辑器
+    - [ ] 测试
+    - [ ] 持续集成
+    - [ ] 代码质量
+    - [ ] 文档管理
+    - [ ] 发布
+- [ ] *Python篇*
+    - [ ] 工作流
+    - [ ] 代码风格
+    - [ ] 最佳实践指南
+    - [ ] 推荐阅读
+- [ ] *C++篇*
+    - [ ] 工作流
+    - [ ] 代码风格
+    - [ ] 最佳实践指导
+    - [ ] 推荐阅读
+- [ ] *鸣谢*
