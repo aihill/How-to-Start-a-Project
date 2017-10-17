@@ -12,7 +12,7 @@
     - [x] [版本控制](http://how-to-start-a-project.readthedocs.io/zh/latest/chapter_tools/git.html)
     - [x] [单元测试](http://how-to-start-a-project.readthedocs.io/zh/latest/chapter_tools/test.html)
     - [x] [持续集成](http://how-to-start-a-project.readthedocs.io/zh/latest/chapter_tools/ci.html)
-    - [ ] 代码质量
+    - [x] [代码质量](http://how-to-start-a-project.readthedocs.io/zh/latest/chapter_tools/quality.html)
     - [ ] 文档管理
     - [ ] 发布
 - [ ] *Python篇*
