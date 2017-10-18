@@ -15,4 +15,4 @@
    ci
    quality
    docs
-   release
+   

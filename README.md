@@ -14,7 +14,6 @@
     - [x] [持续集成](http://how-to-start-a-project.readthedocs.io/zh/latest/chapter_tools/ci.html)
     - [x] [代码质量](http://how-to-start-a-project.readthedocs.io/zh/latest/chapter_tools/quality.html)
     - [ ] 文档管理
-    - [ ] 发布
 - [ ] *Python篇*
     - [ ] 工作流
     - [ ] 代码风格

@@ -27,9 +27,9 @@
 
     [如何简单入门使用Travis-CI持续集成](https://github.com/nukc/how-to-use-travis-ci)
 
-    > **Tips:** 对于 Github 上私有仓库，Travis-CI 不提供免费服务。对于教育账号，则依然免费。
+    > **Tips:** 对于 Github 上私有仓库，Travis-CI 不提供免费服务。对于 Github 教育账号，则依然免费。
 
-2. 自己搭建 CI 服务器。如果 Travis-CI 不能满足你的项目需求，这时候可以自己搭建 CI 服务器来为项目提供持续集成服务。主流的选择是 [Jenkins](https://jenkins.io/)。如有需求，请移步[官网文档](https://jenkins.io/doc/)处学习。
+2. 自己搭建 CI 服务器。如果 Travis-CI 不能满足你的项目需求，这时候可以自己搭建 CI 服务器来为项目提供持续集成服务。现在主流的选择是 [Jenkins](https://jenkins.io/)。如有需求，请移步[官网文档](https://jenkins.io/doc/)处学习。
 
 ### 推荐材料
 

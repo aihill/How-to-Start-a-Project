@@ -20,13 +20,9 @@
 
 ### 流行工具
 
-1. 代码静态分析工具：
+1. **代码静态分析工具** ： 各个语言都有很多静态分析工具，比如 [Clang](http://clang.llvm.org/)， [pylint](https://www.pylint.org/) 等等。基本上主流的分析工具都可以作为插件安装到你的编辑器中，在开发的过程中就会给出建议和提示。这些工具是代码质量的基本保证。
 
-    各个语言都有很多静态分析工具，比如 [Clang](http://clang.llvm.org/)， [pylint](https://www.pylint.org/) 等等。基本上主流的分析工具都可以作为插件安装到你的编辑器中，在开发的过程中就会给出建议和提示。这些工具是代码质量的基本保证。
-
-2. 在线检测平台：
-
-    许多在现的代码检测平台，大多数都对开源项目免费。在 Github 的 [Marketplace](https://github.com/marketplace/category/code-quality) 中，列举了一个关于代码质量检测平台的清单。
+2. **在线检测平台** ： 许多在现的代码检测平台，大多数都对开源项目免费。在 Github 的 [Marketplace](https://github.com/marketplace/category/code-quality) 中，列举了一个关于代码质量检测平台的清单。
 
 ### 推荐阅读
 
