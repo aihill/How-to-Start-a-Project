@@ -5,7 +5,9 @@
 
 这是一份关于如何开始构建一个大规模开源项目的指导。内容包括了开始构建一个大型项目所需要的工具和工作流。目的是希望没有大型项目开发经验的同学可以快速开始自己的项目，并且将主要精力投入于实际的代码中。
 
-[Python-Start-Kit](https://github.com/Shenggan/Python-Start-Kit) 展示了一个 Python 项目的基本结构。
+[Example-Python](https://github.com/Shenggan/Example-Python) 展示了一个 Python 项目的基本结构。
+
+[Example-Cpp](https://github.com/Shenggan/Example-Cpp) 展示了一个 C++ 项目的基本结构。
 
 内容主要包括：
 
@@ -16,14 +18,7 @@
     - [x] [持续集成](http://how-to-start-a-project.readthedocs.io/zh/latest/chapter_tools/ci.html)
     - [x] [代码质量](http://how-to-start-a-project.readthedocs.io/zh/latest/chapter_tools/quality.html)
     - [x] [文档管理](http://how-to-start-a-project.readthedocs.io/zh/latest/chapter_tools/docs.html)
-- [ ] *Python篇*
-    - [ ] 工作流
-    - [ ] 代码风格
-    - [ ] 最佳实践指南
-    - [ ] 推荐阅读
-- [ ] *C++篇*
-    - [ ] 工作流
-    - [ ] 代码风格
-    - [ ] 最佳实践指导
-    - [ ] 推荐阅读
+- [ ] *语言篇*
+    - [ ] Python
+    - [ ] C++
 - [ ] *鸣谢*

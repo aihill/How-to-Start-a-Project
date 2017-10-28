@@ -10,8 +10,7 @@ Contents:
    
    chapter_perface/index
    chapter_tools/index
-   chapter_python/index
-   chapter_cpp/index
+   chapter_lang/index
    thanks
    
    
