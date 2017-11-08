@@ -46,3 +46,5 @@ Udacity Free Course (en/zh) : [如何使用 Git 和 GitHub](https://cn.udacity.c
 
 GitHub 漫游指南 (zh) : [http://github.phodal.com/](http://github.phodal.com/)
 
+Flight rules for git (en) : [https://github.com/k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules)
+
