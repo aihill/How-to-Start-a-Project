@@ -5,9 +5,9 @@
 
 这是一份关于如何开始构建一个大规模开源项目的指导。内容包括了开始构建一个大型项目所需要的工具和工作流。目的是希望没有大型项目开发经验的同学可以快速开始自己的项目，并且将主要精力投入于实际的代码中。
 
-[Example-Python](https://github.com/Shenggan/Example-Python) 展示了一个 Python 项目的基本结构。
+[Example-Python](./example/python) 展示了一个 Python 项目的基本结构。
 
-[Example-Cpp](https://github.com/Shenggan/Example-Cpp) 展示了一个 C++ 项目的基本结构。
+[Example-Cpp](./example/cpp) 展示了一个 C++ 项目的基本结构。
 
 内容主要包括：
 
