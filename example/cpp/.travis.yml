@@ -1,0 +1,11 @@
+sudo: required
+
+language: cpp
+compiler: gcc
+
+install:
+  - sudo bash ./scripts/travis/install-deps.sh
+
+script:
+  - bash ./scripts/travis/build.sh
+  - bash ./scripts/travis/test.sh
